@@ -35,8 +35,15 @@ driver.execute_cdp_cmd("Page.addScriptToEvaluateOnNewDocument", {
     """
 })
 
+
 def human_delay(min_s=1.5, max_s=4.0):
     time.sleep(random.uniform(min_s, max_s))
+
+
+def write_apts(listings: dict):
+    with open('data.txt', 'w') as file:
+        json.dump(listings, file, indent=2)
+
 
 # Scrape
 try:
@@ -52,10 +59,6 @@ try:
 
     listings = scrape.get_listings(driver)
 
-    # with open('data.txt', 'w') as file:
-    #     json.dump(listings, file, indent=2)
-
-    
 
 except Exception as e:
     print(f'>> Scraping failed: {e}')
