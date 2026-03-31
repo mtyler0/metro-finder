@@ -1,0 +1,494 @@
+{
+  "dc_metro_stations": {
+    "Metro Center": {
+      "address": "607 13th St. NW, Washington, DC 20005",
+      "lat": 38.898303,
+      "lon": -77.028099
+    },
+    "Farragut North": {
+      "address": "1001 Connecticut Avenue NW, Washington, DC 20036",
+      "lat": 38.903192,
+      "lon": -77.039766
+    },
+    "Dupont Circle": {
+      "address": "1525 20th St. NW, Washington, DC 20036",
+      "lat": 38.909499,
+      "lon": -77.04362
+    },
+    "Woodley Park-Zoo/Adams Morgan": {
+      "address": "2700 Connecticut Ave., NW, Washington, DC 20008",
+      "lat": 38.924999,
+      "lon": -77.052648
+    },
+    "Cleveland Park": {
+      "address": "3599 Connecticut Avenue NW, Washington, DC 20008",
+      "lat": 38.934703,
+      "lon": -77.058226
+    },
+    "Van Ness-UDC": {
+      "address": "4200 Connecticut Ave NW, Washington, DC 20008",
+      "lat": 38.94362,
+      "lon": -77.063511
+    },
+    "Tenleytown-AU": {
+      "address": "4501 Wisconsin Ave NW, Washington, DC 20016",
+      "lat": 38.947808,
+      "lon": -77.079615
+    },
+    "Friendship Heights": {
+      "address": "5337 Wisconsin Avenue NW, Washington, DC 20015",
+      "lat": 38.960744,
+      "lon": -77.085969
+    },
+    "Bethesda": {
+      "address": "800 North Ln, Bethesda, MD 20814",
+      "lat": 38.984282,
+      "lon": -77.094431
+    },
+    "Medical Center": {
+      "address": "8810 Rockville Pike, Bethesda, MD 20814",
+      "lat": 38.999947,
+      "lon": -77.097253
+    },
+    "Grosvenor-Strathmore": {
+      "address": "5301 Tuckerman Ln, North Bethesda, MD 20852",
+      "lat": 39.029158,
+      "lon": -77.10415
+    },
+    "North Bethesda": {
+      "address": "10000 Citadel Ave, North Bethesda, MD 20852",
+      "lat": 39.048043,
+      "lon": -77.113131
+    },
+    "Twinbrook": {
+      "address": "1600 Chapman Ave, Rockville, MD 20852",
+      "lat": 39.062359,
+      "lon": -77.121113
+    },
+    "Rockville": {
+      "address": "251 Hungerford Dr, Rockville, MD 20850",
+      "lat": 39.084215,
+      "lon": -77.146424
+    },
+    "Shady Grove": {
+      "address": "215903 Somerville Dr, Rockville, MD 20855",
+      "lat": 39.119819,
+      "lon": -77.164921
+    },
+    "Gallery Pl-Chinatown": {
+      "address": "630 H St. NW, Washington, DC 20001",
+      "lat": 38.89834,
+      "lon": -77.021851
+    },
+    "Judiciary Square": {
+      "address": "450 F Street NW, Washington, DC 20001",
+      "lat": 38.896084,
+      "lon": -77.016643
+    },
+    "Union Station": {
+      "address": "701 First St. NE, Washington, DC 20002",
+      "lat": 38.897723,
+      "lon": -77.006745
+    },
+    "Rhode Island Ave-Brentwood": {
+      "address": "2300 Washington Pl NE, Washington, DC 20018",
+      "lat": 38.920741,
+      "lon": -76.995984
+    },
+    "Brookland-CUA": {
+      "address": "801 Michigan Ave NE, Washington, DC 20017",
+      "lat": 38.933234,
+      "lon": -76.994544
+    },
+    "Fort Totten": {
+      "address": "550 Galloway St NE, Washington, DC 20011",
+      "lat": 38.951777,
+      "lon": -77.002174
+    },
+    "Takoma": {
+      "address": "327 Cedar St NW, Washington, DC 20012",
+      "lat": 38.975532,
+      "lon": -77.017834
+    },
+    "Silver Spring": {
+      "address": "8400 Colesville Rd, Silver Spring, MD 20910",
+      "lat": 38.993841,
+      "lon": -77.031321
+    },
+    "Forest Glen": {
+      "address": "9730 Georgia Ave, Silver Spring, MD 20910",
+      "lat": 39.015413,
+      "lon": -77.042953
+    },
+    "Wheaton": {
+      "address": "11171 Georgia Ave, Wheaton, MD 20902",
+      "lat": 39.038558,
+      "lon": -77.051098
+    },
+    "Glenmont": {
+      "address": "12601 Georgia Ave, Silver Spring, MD 20906",
+      "lat": 39.061713,
+      "lon": -77.05341
+    },
+    "NoMa-Gallaudet U": {
+      "address": "200 Florida Ave N.E., Washington, DC 20002",
+      "lat": 38.907407,
+      "lon": -77.002961
+    },
+    "McPherson Square": {
+      "address": "1400 I St. NW, Washington, DC 20005",
+      "lat": 38.901316,
+      "lon": -77.033652
+    },
+    "Farragut West": {
+      "address": "900 18th St. NW, Washington, DC 20006",
+      "lat": 38.901311,
+      "lon": -77.03981
+    },
+    "Foggy Bottom-GWU": {
+      "address": "2301 I St. NW, Washington, DC 20037",
+      "lat": 38.900599,
+      "lon": -77.050273
+    },
+    "Rosslyn": {
+      "address": "1850 N. Moore Street, Arlington, VA 22209",
+      "lat": 38.896595,
+      "lon": -77.07146
+    },
+    "Arlington Cemetery": {
+      "address": "1000 North Memorial Drive, Arlington, VA 22211",
+      "lat": 38.884574,
+      "lon": -77.063108
+    },
+    "Pentagon": {
+      "address": "2 South Rotary Road, Arlington, VA 22202",
+      "lat": 38.869349,
+      "lon": -77.054013
+    },
+    "Pentagon City": {
+      "address": "1250 South Hayes St., Arlington, VA 22202",
+      "lat": 38.863045,
+      "lon": -77.059507
+    },
+    "Crystal City": {
+      "address": "1750 S. Bell St., Arlington, VA 22202",
+      "lat": 38.85779,
+      "lon": -77.050589
+    },
+    "Ronald Reagan Washington National Airport": {
+      "address": "2400 S. Smith Blvd., Arlington, VA 22202",
+      "lat": 38.852985,
+      "lon": -77.043805
+    },
+    "Potomac Yard": {
+      "address": "2900 Potomac Greens Drive, Alexandria, VA 22314",
+      "lat": 38.83321,
+      "lon": -77.04642
+    },
+    "Braddock Road": {
+      "address": "700 N West St, Alexandria, VA 22314",
+      "lat": 38.814009,
+      "lon": -77.053763
+    },
+    "King St-Old Town": {
+      "address": "1900 King Street, Alexandria, VA 22301",
+      "lat": 38.806474,
+      "lon": -77.061115
+    },
+    "Eisenhower Avenue": {
+      "address": "2400 Eisenhower Ave, Alexandria, VA 22314",
+      "lat": 38.800313,
+      "lon": -77.071173
+    },
+    "Huntington": {
+      "address": "2701 Huntington Ave, Alexandria, VA 22303",
+      "lat": 38.793841,
+      "lon": -77.075301
+    },
+    "Federal Triangle": {
+      "address": "302 12th St. NW, Washington, DC 20004",
+      "lat": 38.893757,
+      "lon": -77.028218
+    },
+    "Smithsonian": {
+      "address": "1200 Independence Avenue SW, Washington, DC 20004",
+      "lat": 38.888022,
+      "lon": -77.028232
+    },
+    "L'Enfant Plaza": {
+      "address": "600 Maryland Avenue SW, Washington, DC 20024",
+      "lat": 38.884775,
+      "lon": -77.021964
+    },
+    "Federal Center SW": {
+      "address": "401 3rd Street SW, Washington, DC 20024",
+      "lat": 38.884958,
+      "lon": -77.01586
+    },
+    "Capitol South": {
+      "address": "355 First Street SE, Washington, DC 20003",
+      "lat": 38.884968,
+      "lon": -77.005137
+    },
+    "Eastern Market": {
+      "address": "701 Pennsylvania Avenue SE, Washington, DC 20003",
+      "lat": 38.884124,
+      "lon": -76.995334
+    },
+    "Potomac Ave": {
+      "address": "700 14th Street SE, Washington, DC 20003",
+      "lat": 38.880841,
+      "lon": -76.985721
+    },
+    "Stadium-Armory": {
+      "address": "192 19th St. SE, Washington, DC 20003",
+      "lat": 38.88594,
+      "lon": -76.977485
+    },
+    "Minnesota Ave": {
+      "address": "4000 Minnesota Ave NE, Washington, DC 20019",
+      "lat": 38.898284,
+      "lon": -76.948042
+    },
+    "Deanwood": {
+      "address": "4720 Minnesota Ave NE, Washington, DC 20019",
+      "lat": 38.907734,
+      "lon": -76.936177
+    },
+    "Cheverly": {
+      "address": "5501 Columbia Park Rd, Cheverly, MD 20785",
+      "lat": 38.91652,
+      "lon": -76.915427
+    },
+    "Landover": {
+      "address": "3000 Pennsy Dr, Landover, MD 20785",
+      "lat": 38.934411,
+      "lon": -76.890988
+    },
+    "New Carrollton": {
+      "address": "4700 Garden City Dr, New Carrollton, MD 20784",
+      "lat": 38.947674,
+      "lon": -76.872144
+    },
+    "Mt Vernon Sq 7th St-Convention Center": {
+      "address": "700 M St. NW, Washington, DC 20001",
+      "lat": 38.905604,
+      "lon": -77.022256
+    },
+    "Shaw-Howard U": {
+      "address": "1701 8th St. NW, Washington, DC 20001",
+      "lat": 38.912919,
+      "lon": -77.022194
+    },
+    "U Street/African-Amer Civil War Memorial/Cardozo": {
+      "address": "1240 U Street NW, Washington, DC 20009",
+      "lat": 38.916489,
+      "lon": -77.028938
+    },
+    "Columbia Heights": {
+      "address": "3030 14th St. NW, Washington, DC 20009",
+      "lat": 38.928672,
+      "lon": -77.032775
+    },
+    "Georgia Ave-Petworth": {
+      "address": "3700 Georgia Avenue NW, Washington, DC 20010",
+      "lat": 38.936077,
+      "lon": -77.024728
+    },
+    "West Hyattsville": {
+      "address": "2700 Hamilton St, Hyattsville, MD 20782",
+      "lat": 38.954931,
+      "lon": -76.969881
+    },
+    "Hyattsville Crossing": {
+      "address": "3575 East-West Hwy, Hyattsville, MD 20782",
+      "lat": 38.965276,
+      "lon": -76.956182
+    },
+    "College Park-U of Md": {
+      "address": "4931 Calvert Rd, College Park, MD 20740",
+      "lat": 38.978523,
+      "lon": -76.928432
+    },
+    "Greenbelt": {
+      "address": "5500 Greenbelt Metro Dr, Beltsville, MD 20705",
+      "lat": 39.011036,
+      "lon": -76.911362
+    },
+    "Archives-Navy Memorial-Penn Quarter": {
+      "address": "701 Pennsylvania Avenue NW, Washington, DC 20004",
+      "lat": 38.893893,
+      "lon": -77.021902
+    },
+    "Waterfront": {
+      "address": "399 M Street SW, Washington, DC 20024",
+      "lat": 38.876221,
+      "lon": -77.017491
+    },
+    "Navy Yard-Ballpark": {
+      "address": "200 M Street SE, Washington, DC 20003",
+      "lat": 38.876588,
+      "lon": -77.005086
+    },
+    "Anacostia": {
+      "address": "1101 Howard Rd SE, Washington, DC 20020",
+      "lat": 38.862072,
+      "lon": -76.995648
+    },
+    "Congress Heights": {
+      "address": "1290 Alabama Ave SE, Washington, DC 20020",
+      "lat": 38.845334,
+      "lon": -76.98817
+    },
+    "Southern Avenue": {
+      "address": "1411 Southern Ave SE, Hillcrest Heights, MD 20748",
+      "lat": 38.840974,
+      "lon": -76.97536
+    },
+    "Naylor Road": {
+      "address": "3226 Naylor Rd, Hillcrest Heights, MD 20748",
+      "lat": 38.851187,
+      "lon": -76.956565
+    },
+    "Suitland": {
+      "address": "4500 Silver Hill Rd, Suitland, MD 20746",
+      "lat": 38.843891,
+      "lon": -76.932022
+    },
+    "Branch Ave": {
+      "address": "4707 Old Soper Rd, Suitland, MD 20746",
+      "lat": 38.826995,
+      "lon": -76.912134
+    },
+    "Benning Road": {
+      "address": "4500 Benning Rd NE, Washington, DC 20019",
+      "lat": 38.890488,
+      "lon": -76.938291
+    },
+    "Capitol Heights": {
+      "address": "133 Central Ave, Capitol Heights, MD 20743",
+      "lat": 38.889757,
+      "lon": -76.913382
+    },
+    "Addison Road-Seat Pleasant": {
+      "address": "100 Addison Rd S, Capitol Heights, MD 20743",
+      "lat": 38.886713,
+      "lon": -76.893592
+    },
+    "Morgan Boulevard": {
+      "address": "401 Garrett A Morgan Blvd, Landover, MD 20785",
+      "lat": 38.8913,
+      "lon": -76.8682
+    },
+    "Downtown Largo": {
+      "address": "9000 Lottsford Rd, Largo, MD 20774",
+      "lat": 38.9008,
+      "lon": -76.8449
+    },
+    "Van Dorn Street": {
+      "address": "5690 Eisenhower Ave, Alexandria, VA 22310",
+      "lat": 38.799193,
+      "lon": -77.129407
+    },
+    "Franconia-Springfield": {
+      "address": "6880 Frontier Dr, Springfield, VA 22150",
+      "lat": 38.766129,
+      "lon": -77.168797
+    },
+    "Court House": {
+      "address": "2100 Wilson Blvd, Arlington, VA 22201",
+      "lat": 38.891499,
+      "lon": -77.08391
+    },
+    "Clarendon": {
+      "address": "3100 Wilson Blvd, Arlington, VA 22201",
+      "lat": 38.886373,
+      "lon": -77.096963
+    },
+    "Virginia Square-GMU": {
+      "address": "3600 Fairfax Drive, Arlington, VA 22201",
+      "lat": 38.88331,
+      "lon": -77.104267
+    },
+    "Ballston-MU": {
+      "address": "4230 Fairfax Drive, Arlington, VA 22201",
+      "lat": 38.882071,
+      "lon": -77.111845
+    },
+    "East Falls Church": {
+      "address": "2001 N Sycamore St, Arlington, VA 22205",
+      "lat": 38.885841,
+      "lon": -77.157177
+    },
+    "West Falls Church": {
+      "address": "7040 Haycock Rd, Falls Church, VA 22043",
+      "lat": 38.90067,
+      "lon": -77.189394
+    },
+    "Dunn Loring-Merrifield": {
+      "address": "2700 Gallows Rd, Vienna, VA 22180",
+      "lat": 38.883015,
+      "lon": -77.228939
+    },
+    "Vienna/Fairfax-GMU": {
+      "address": "9550 Saintsbury Dr, Fairfax, VA 22031",
+      "lat": 38.877693,
+      "lon": -77.271562
+    },
+    "McLean": {
+      "address": "1824 Dolley Madison Boulevard, McLean, VA 22102",
+      "lat": 38.924478,
+      "lon": -77.210167
+    },
+    "Tysons": {
+      "address": "1943 Chain Bridge Road, McLean, VA 22102",
+      "lat": 38.920056,
+      "lon": -77.223314
+    },
+    "Greensboro": {
+      "address": "8305 Leesburg Pike, Vienna, VA 22182",
+      "lat": 38.919749,
+      "lon": -77.235192
+    },
+    "Spring Hill": {
+      "address": "1576 Spring Hill Road, Vienna, VA 22182",
+      "lat": 38.929273,
+      "lon": -77.241988
+    },
+    "Wiehle-Reston East": {
+      "address": "1908 Reston Station Blvd, Reston, VA 20190",
+      "lat": 38.947753,
+      "lon": -77.340179
+    },
+    "Reston Town Center": {
+      "address": "1998 Edmund Halley Drive, Reston, VA 20191",
+      "lat": 38.952768,
+      "lon": -77.360185
+    },
+    "Herndon": {
+      "address": "12530 Sunrise Valley Dr, Herndon, VA 20191",
+      "lat": 38.952821,
+      "lon": -77.385178
+    },
+    "Innovation Center": {
+      "address": "13747-A Sunrise Valley Dr, Herndon, VA 20171",
+      "lat": 38.960758,
+      "lon": -77.415295
+    },
+    "Washington Dulles International Airport": {
+      "address": "44920 Saarinen Circle, Dulles, VA 20166",
+      "lat": 38.955784,
+      "lon": -77.448148
+    },
+    "Loudoun Gateway": {
+      "address": "22505 Lockridge Rd, Ashburn, VA 20166",
+      "lat": 38.99204,
+      "lon": -77.460685
+    },
+    "Ashburn": {
+      "address": "43624 Croson Ln, Ashburn, VA 20148",
+      "lat": 39.005283,
+      "lon": -77.491537
+    }
+  }
+}

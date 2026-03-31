@@ -9,7 +9,9 @@ api_key = os.getenv('API_KEY')
 with open('data.txt') as f:
     listings = json.load(f)
 
-#top_5_closest = sorted(list(.values()))[:5]
+res = scrape.get_distances(listings, api_key=api_key, mode='driving')
+res = dict(sorted(res.items(), key=lambda item: item[1]['duration_mins']))
+# print(res)
 
-stop_map = scrape.get_distances(listings, api_key)
-print(stop_map)
+with open('out.txt', 'w') as f:
+    json.dump(res, f, indent=4)
