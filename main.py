@@ -58,6 +58,12 @@ try:
     print(f'>>Apartment {title[:21]}... located.\n>>Scraping in Progress')
 
     listings = scrape.get_listings(driver)
+    res = scrape.get_distances(listings, api_key=api_key, mode='driving')
+    res = dict(sorted(res.items(), key=lambda item: item[1]['duration_mins']))
+
+    # Write results to output file
+    with open('out.txt', 'w') as f:
+        json.dump(res, f, indent=4)
 
 
 except Exception as e:
