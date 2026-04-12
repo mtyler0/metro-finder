@@ -11,7 +11,8 @@ def get_listings(driver):
     for a in apt_links:
         href = a.get_attribute('href')
         address = a.find_element(By.CLASS_NAME, 'property-address').text
-        listings[href] = address
+        price = a.find_element(By.CSS_SELECTOR, '.priceTextBox').text
+        listings[href] = {'address': address, 'price': price}
 
     return listings
 
@@ -23,7 +24,6 @@ def chunked(lst, size):
 
 def get_distances(listings: dict, mode: str='walking', api_key: str=None):
     gmaps = googlemaps.Client(key=api_key)
-    now = datetime.now()
     
     with open('data\\dc_metro_stations.json') as f:
         stations = json.load(f)['dc_metro_stations']
@@ -34,7 +34,9 @@ def get_distances(listings: dict, mode: str='walking', api_key: str=None):
     results = {}
 
 
-    for link, address in listings.items():
+    for link, data in listings.items():
+        address = data['address']
+
         all_elements = []
 
         for dest_chunk, name_chunk in zip(chunked(destinations, 25), chunked(names, 25)):
@@ -64,6 +66,7 @@ def get_distances(listings: dict, mode: str='walking', api_key: str=None):
         
         results[address] = {
             'link': link,
+            'price': data['price'],
             'closest_station': closest,
             'duration_mins': round(stop_map[closest] / 60, 2),
             'directions_link': directions_link
